@@ -484,6 +484,7 @@ function increase(amnt, dif) {
     pCheck(11);
     pCheck(12);
     pCheck(6);
+    pCheck(5);
    /* if (player.money.red > 2.56e256) player.money.red = 2.56e256;
     if (player.money.green > 2.56e256) player.money.green = 2.56e256;
     if (player.money.blue > 2.56e256) player.money.blue = 2.56e256;
